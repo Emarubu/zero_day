@@ -1,1 +1,1 @@
-*Learning how to navigate vagrant*
+*Learning how to navigate vagrant.*
